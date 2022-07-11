@@ -11,7 +11,6 @@
 </div>
 
 
-### Estou aprendendo
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" heigth="40"/> -
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" heigth="40"/> -
