@@ -1,6 +1,6 @@
 ## Olá ✋, meu nome é Luan!
-### Seja bem vindo ao meu perfil aqui no Github 👊
-### Fique a vontade para navegar pelos repositórios 🤝
+#### Seja bem vindo ao meu perfil aqui no Github 👊
+#### Fique a vontade para navegar pelos repositórios 🤝
 
 <!--
 **luangust4vo/luangust4vo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
