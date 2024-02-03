@@ -1,8 +1,8 @@
 <h1>Luan Gustavo</h1>
 
 - 📚 Atualmente cursando Engenharia de Software (2/4)
-- 🌱 Estudando tecnologias como <a href="https://react.dev/">ReactJs</a> e <a href="https://nodejs.org/en">NodeJs</a>
-- 🔭 Buscando emprego na área
+- 🌱 Estudando tecnologias como <a href="https://react.dev/">ReactJs</a> e <a href="https://nodejs.org/en">NodeJs</a>.
+- 🔭 Buscando emprego na área.
 
 <br />
 
@@ -17,6 +17,7 @@
 </p>
 
 ### 💻 Tecnologias e Ferramentas:
+<img width="300px" align="right" src="https://github.com/luangust4vo/luangust4vo/blob/main/myoctocat.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VSCODE" /></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
@@ -25,11 +26,16 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "NODEJS" /></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title = "MONGODB" /></code>
 
+<br/>
+<br/>
+
 <div display="inline-block">
   <p align="left">✏ Ando estudando programação web usando tecnologias como a biblioteca <a href="https://react.dev/">ReactJs</a> para frontend e <a href="https://nodejs.org/en">NodeJs</a>, mas espero conseguir tentar outras tecnologias.</p>
-  <p align="left">☕ Café me da sono, mas é bom d+. Também curto jogos, mas mais os com histórias mais lineares, como GoW e TLoU e alguns mobiles, tipo Brawl Stars</p>
-  <p align="left">📩 Pode tentar falar comigo pelo meu <a href="https://www.instagram.com/gustaluan09">Instagram</a> ou mandar um <a href="mailto:luan.gustavo.m.marques@gmail.com">Email</a></p>
+  <p align="left">☕ Café me da sono, mas é bom d+. Também curto jogos, mas mais os com histórias mais lineares, como GoW e TLoU e alguns mobiles, tipo Brawl Stars.</p>
+  <p align="left">📩 Pode tentar falar comigo pelo meu <a href="https://www.instagram.com/gustaluan09">Instagram</a> ou mandar um <a href="mailto:luan.gustavo.m.marques@gmail.com">Email</a>.</p>
 </div>
+
+<br/>
 
 <div display="flex" style="justify-content: space-between;">
   <a href="https://www.instagram.com/gustaluan09" target="_blank"><img align="left" alt="Instagram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />
