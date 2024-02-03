@@ -33,6 +33,7 @@
   <p align="left">✏ Ando estudando programação web usando tecnologias como a biblioteca <a href="https://react.dev/">ReactJs</a> para frontend e <a href="https://nodejs.org/en">NodeJs</a>, mas espero conseguir tentar outras tecnologias.</p>
   <p align="left">☕ Café me da sono, mas é bom d+. Também curto jogos, mas mais os com histórias mais lineares, como GoW e TLoU e alguns mobiles, tipo Brawl Stars.</p>
   <p align="left">📩 Pode tentar falar comigo pelo meu <a href="https://www.instagram.com/gustaluan09">Instagram</a> ou mandar um <a href="mailto:luan.gustavo.m.marques@gmail.com">Email</a>.</p>
+  <p align="left">👊 Além disso, podem conhecer os pequenos projetos presentes nos repositórios, que, por enquanto, são poucos!</p>
 </div>
 
 <br/>
