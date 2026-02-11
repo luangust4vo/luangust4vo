@@ -1,6 +1,6 @@
 <h1>Luan Gustavo</h1>
 
-- 📚 Atualmente cursando Engenharia de Software (3/4)
+- 📚 Atualmente cursando Engenharia de Software (4/4)
 - 🌱 Estudando as tecnologias <a href="https://react.dev/">ReactJs</a> e <a href="https://nodejs.org/en">NodeJs</a>.
 
 <br />
